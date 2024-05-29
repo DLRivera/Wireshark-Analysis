@@ -15,7 +15,11 @@ This project is a report of the findings in a fictional scenario in which a susp
 
 - <b>Windows 10 via Virtualization</b>
 
-<h2>Lab Report (To be Developed)</h2>
+<h1>Lab Report</h1>
+
+## Introduction
+To begin with, this lab starts out with a fictional scenario of a home network suspected of being under attack. 
+
 
 <!--
  ```diff
